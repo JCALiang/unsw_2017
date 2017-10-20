@@ -1,0 +1,10 @@
+29/09/17        10:00   12:00   complete subset 1
+30/09/17        11:00   14:00   complete subset 2 examples
+                                modify subset 1 to handle mix variables and constant in assignment
+                15:00   17:00   start subset 3: for multiline
+01/10/17        14:00   16:00   modify subset 2 to handle regex exclusion of not and or keywords
+02/10/17        16:00   23:00   complete most subset 3 except odd.py
+03/10/17        11:30   13:30   complete all subset 3
+                15:00   23:00   complete most subset 4 features except dictionary
+                
+04/10/17        19:00   22:00   complete all demo and tests, final debug
