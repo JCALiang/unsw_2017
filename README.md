@@ -1,7 +1,7 @@
 # unsw_2017
 First entry of github
 
-The following records assignments and projects done during my first year of programming courses taken in UNSW:
+This repo records assignments and projects done during my first year of programming courses taken in UNSW:
 
 
 1. COMP9021: Principles of programming
